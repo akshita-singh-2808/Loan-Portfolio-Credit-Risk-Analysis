@@ -87,6 +87,6 @@ An interactive dashboard was created using **Power BI / Tableau**, visualizing:
 - High-risk segment showed significantly higher default rates
 
 ## 👩‍💻 Author
-Abhilasha  
+Akshita Singh
 MNNIT – Mechanical Engineering  
 ---
